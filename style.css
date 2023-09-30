@@ -1,0 +1,20 @@
+table{
+  background-color: rgb(246, 247, 249);
+  font-size: 12px;
+  padding:px;
+  width: 700px; 
+  height:900;
+line-height: 40px;
+margin-left: 15px;
+}
+table tr th{
+color: blue;
+ text-align: left;
+ background-color: aquamarine;
+ border-radius: 10px;
+
+}
+h1{
+  margin-left:15px ;
+}
+ 
